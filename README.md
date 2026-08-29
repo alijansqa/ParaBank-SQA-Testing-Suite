@@ -25,7 +25,7 @@ The test suite covers core banking functionality across 8 key modules:
 ---
 
 ## 📂 Repository Structure
-* **`ParaBank.xlsx`**: Master Workbook (Scenarios, Cases, API Log, Bugs, Summary)
+* **`ParaBank-Project-AliJan.xlsx`**: Master Workbook (Scenarios, Cases, API Log, Bugs, Summary)
 * **`README.md`**: Project Overview & Execution Summary
 
 ---
