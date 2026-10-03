@@ -50,6 +50,6 @@ The test suite covers core banking functionality across 8 key modules:
 ---
 
 ## 👤 Author
-**Ali Jan Anwar Samejo**  
+**Ali Jan**  
 *Software Quality Assurance (SQA) Engineer*  
 *Specializations:* Manual, API, Database , and Performance Testing
